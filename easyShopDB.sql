@@ -12,6 +12,7 @@ CREATE TABLE products (item_id INTEGER AUTO_INCREMENT,
     PRIMARY KEY (item_id)
 );
 
+-- Seed data for the DATABASE
 INSERT INTO products
 ('product_name',
 'department_name',
