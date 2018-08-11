@@ -25,7 +25,7 @@ From the command line, available options are
 
 ###Screenshots
 In this screenshot, the customer is shown all the products and can select products by item ID.After selection, the cost for that purchase is shown. Then the user is given the option to conitnue with another purchase or quit.
-<img width="960" alt="easyshop customer" src="./assets/images/customer1.png">
+<img width="960" alt="easyshop customer" src="./assets/customer1.png">
 
 
 This screenshot shows the manager menu options which allow them to manage inventory by adding inventory and new products.
